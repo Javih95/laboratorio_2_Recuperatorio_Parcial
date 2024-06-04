@@ -1,0 +1,2 @@
+# laboratorio_2_Recuperatorio_Parcial
+laboratorio 2 Recuperatorio primer Parcial
